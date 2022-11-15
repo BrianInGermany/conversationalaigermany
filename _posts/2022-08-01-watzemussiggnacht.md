@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watzemussiggnacht 2022!
+title: CAI Jibber Jabber!
 subtitle: Klatscht mit beim Auftritt im Darmstädter Ireland Pub am 10. September!
 gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
