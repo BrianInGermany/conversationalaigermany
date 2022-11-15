@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conversational AI Germany im Good Coffee!
+title: CAI Germany im Good Coffee!
 subtitle: "Am 13. November im Good Coffee Offenbach"
 gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]

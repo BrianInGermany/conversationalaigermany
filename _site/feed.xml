@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     
-    <title>Conversational AI Germany</title>
+    <title>CAI Germany</title>
     
     
-    <description>Conversational AI Germany Blog</description>
+    <description>CAI Germany Blog</description>
     
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
     
       <item>
-        <title>Conversational AI Germany im Good Coffee!</title>
+        <title>CAI Germany im Good Coffee!</title>
         <description>
           Am 13. November im Good Coffee Offenbach - 
           Kick back and “Keep On the Sunny Side of Life”!
@@ -44,7 +44,7 @@ Tanner’s Farm
         <title>Watzemussiggnacht 2022!</title>
         <description>
           Klatscht mit beim Auftritt im Darmstädter Ireland Pub am 10. September! - 
-          Macht euch gefasst für einen abgefahrenen Abend mit fußstampfendem Folk! Im Rahmen der alljährlichen Martinskerb bieten bei der Watzemussiggnacht im Martinsviertel verschiedenste Kneipen zeitgleich Live-Musik an. Dieses Jahr hat die Conversational AI Germany die Ehre, den Ireland Pub mit Foot-Tappin’ Folk zu versorgen. Wir freuen uns! Brian, Jim und Javier...
+          Macht euch gefasst für einen abgefahrenen Abend mit fußstampfendem Folk! Im Rahmen der alljährlichen Martinskerb bieten bei der Watzemussiggnacht im Martinsviertel verschiedenste Kneipen zeitgleich Live-Musik an. Dieses Jahr hat die CAI Germany die Ehre, den Ireland Pub mit Foot-Tappin’ Folk zu versorgen. Wir freuen uns! Brian, Jim und Javier...
         </description>
         <pubDate>Mon, 01 Aug 2022 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/2022-08-01-watzemussiggnacht/</link>

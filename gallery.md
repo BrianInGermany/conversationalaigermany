@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery
-subtitle: The Conversational AI Germany as they live and breathe.
+subtitle: The CAI Germany as they live and breathe.
 ---
 
 ## Jam Sesh November 2022

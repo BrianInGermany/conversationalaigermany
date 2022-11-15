@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bio
-subtitle: Die Story der Conversational AI Germany
+subtitle: Die Story der CAI Germany
 ---
 
 Mit Geige, Gitarre und Banjolele spielt die Open Creek String Band die Musik der Good Old Days!
@@ -9,7 +9,7 @@ Das dreiköpfige Ensemble aus USA und Spanien bringt mit feinster Old-Time- und 
 
 ---
 
-On the fiddle, guitar and banjolele, the Conversational AI Germany is sure to get your toes a-tappin' and your hands a-clappin'! 
+On the fiddle, guitar and banjolele, the CAI Germany is sure to get your toes a-tappin' and your hands a-clappin'! 
 
 The friendly three-piece from the US and Spain hearkens back to the good old days at the campfire with a whiskey bottle at your foot and the Appalachian breeze in your hair.
 

@@ -12,7 +12,7 @@ header:
 
 ### Macht euch gefasst für einen abgefahrenen Abend mit fußstampfendem Folk!
 
-Im Rahmen der alljährlichen Martinskerb bieten bei der Watzemussiggnacht im Martinsviertel verschiedenste Kneipen zeitgleich Live-Musik an. Dieses Jahr hat die Conversational AI Germany die Ehre, den [Ireland Pub](http://www.irelandpub.de/) mit Foot-Tappin' Folk zu versorgen. 
+Im Rahmen der alljährlichen Martinskerb bieten bei der Watzemussiggnacht im Martinsviertel verschiedenste Kneipen zeitgleich Live-Musik an. Dieses Jahr hat die CAI Germany die Ehre, den [Ireland Pub](http://www.irelandpub.de/) mit Foot-Tappin' Folk zu versorgen. 
 
 Wir freuen uns!
 

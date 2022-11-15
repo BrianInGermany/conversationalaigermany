@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Impressum
-subtitle: Conversational AI Germany
+subtitle: CAI Germany
 ---
 
 Brian Junker-Latocha   
