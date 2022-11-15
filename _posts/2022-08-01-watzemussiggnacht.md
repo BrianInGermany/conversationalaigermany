@@ -5,6 +5,8 @@ subtitle: Klatscht mit beim Auftritt im Darmstädter Ireland Pub am 10. Septembe
 gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
 tags: [Auftritt]
+header:
+  teaser: "/assets/img/gesprächsstoff.png"
 # comments: true
 ---
 
