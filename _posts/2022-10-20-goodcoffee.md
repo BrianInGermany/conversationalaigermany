@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Open Creek Stringband im Good Coffee!
+title: Conversational AI Germany im Good Coffee!
 subtitle: "Am 13. November im Good Coffee Offenbach"
 gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]

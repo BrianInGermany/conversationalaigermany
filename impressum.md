@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Impressum
-subtitle: Open Creek Stringband
+subtitle: Conversational AI Germany
 ---
 
 Brian Junker-Latocha   

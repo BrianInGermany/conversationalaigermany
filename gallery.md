@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery
-subtitle: The Open Creek Stringband as they live and breathe.
+subtitle: The Conversational AI Germany as they live and breathe.
 ---
 
 ## Jam Sesh November 2022
